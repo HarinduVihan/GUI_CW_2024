@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\oderreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\oderreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\oderreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\oderreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|c:\\others\\diploma pc\\gui\\gui cw\\gui cw\\gui cw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\invoiceviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\invoiceviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\invoiceviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\invoiceviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\orderreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\orderreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\customerreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\customerreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\invoice.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\invoice.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\itemreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\itemreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\cusadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\cusadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\gui cw\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9A03EF5-F9AB-4773-BC86-B0B7339E172B}|GUI CW\\GUI CW.csproj|solutionrelative:gui cw\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceViewer.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\InvoiceViewer.cs",
+              "RelativeDocumentMoniker": "GUI CW\\InvoiceViewer.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\InvoiceViewer.cs",
+              "RelativeToolTip": "GUI CW\\InvoiceViewer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:07:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceViewer.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\InvoiceViewer.cs",
+              "RelativeDocumentMoniker": "GUI CW\\InvoiceViewer.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\InvoiceViewer.cs [Design]",
+              "RelativeToolTip": "GUI CW\\InvoiceViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:07:52.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OderReportViewer.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\OderReportViewer.cs",
+              "RelativeDocumentMoniker": "GUI CW\\OderReportViewer.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\OderReportViewer.cs [Design]",
+              "RelativeToolTip": "GUI CW\\OderReportViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:07:45.083Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemReport.rpt",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemReport.rpt",
+              "RelativeDocumentMoniker": "GUI CW\\ItemReport.rpt",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemReport.rpt",
+              "RelativeToolTip": "GUI CW\\ItemReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-07T15:27:23.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerReport.rpt",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\CustomerReport.rpt",
+              "RelativeDocumentMoniker": "GUI CW\\CustomerReport.rpt",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\CustomerReport.rpt",
+              "RelativeToolTip": "GUI CW\\CustomerReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-06T17:09:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OderReportViewer.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\OderReportViewer.cs",
+              "RelativeDocumentMoniker": "GUI CW\\OderReportViewer.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\OderReportViewer.cs",
+              "RelativeToolTip": "GUI CW\\OderReportViewer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:15:39.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderReport.rpt",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\OrderReport.rpt",
+              "RelativeDocumentMoniker": "GUI CW\\OrderReport.rpt",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\OrderReport.rpt",
+              "RelativeToolTip": "GUI CW\\OrderReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-07T15:08:10.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "GUI CW\\AdminMenu.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\AdminMenu.cs",
+              "RelativeToolTip": "GUI CW\\AdminMenu.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAWwEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:06:34.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\login.cs",
+              "RelativeDocumentMoniker": "GUI CW\\login.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\login.cs",
+              "RelativeToolTip": "GUI CW\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:52:18.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminMenu.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "GUI CW\\AdminMenu.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\AdminMenu.cs [Design]",
+              "RelativeToolTip": "GUI CW\\AdminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:04:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Invoice.rpt",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Invoice.rpt",
+              "RelativeDocumentMoniker": "GUI CW\\Invoice.rpt",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Invoice.rpt",
+              "RelativeToolTip": "GUI CW\\Invoice.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-07T14:41:54.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemUpdate.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemUpdate.cs",
+              "RelativeDocumentMoniker": "GUI CW\\ItemUpdate.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemUpdate.cs",
+              "RelativeToolTip": "GUI CW\\ItemUpdate.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:53:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemReportViewer.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemReportViewer.cs",
+              "RelativeDocumentMoniker": "GUI CW\\ItemReportViewer.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemReportViewer.cs [Design]",
+              "RelativeToolTip": "GUI CW\\ItemReportViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:03:20.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CusAdd.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\CusAdd.cs",
+              "RelativeDocumentMoniker": "GUI CW\\CusAdd.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\CusAdd.cs [Design]",
+              "RelativeToolTip": "GUI CW\\CusAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:52:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\login.cs",
+              "RelativeDocumentMoniker": "GUI CW\\login.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\login.cs [Design]",
+              "RelativeToolTip": "GUI CW\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:39:37.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Order.cs",
+              "RelativeDocumentMoniker": "GUI CW\\Order.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Order.cs",
+              "RelativeToolTip": "GUI CW\\Order.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAWwHQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:03:08.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Order.cs",
+              "RelativeDocumentMoniker": "GUI CW\\Order.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Order.cs [Design]",
+              "RelativeToolTip": "GUI CW\\Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:18:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemAdd.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemAdd.cs",
+              "RelativeDocumentMoniker": "GUI CW\\ItemAdd.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemAdd.cs",
+              "RelativeToolTip": "GUI CW\\ItemAdd.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAArwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:50:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemAdd.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemAdd.cs",
+              "RelativeDocumentMoniker": "GUI CW\\ItemAdd.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemAdd.cs [Design]",
+              "RelativeToolTip": "GUI CW\\ItemAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:50:30.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemUpdate.cs",
+              "RelativeDocumentMoniker": "GUI CW\\ItemUpdate.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemUpdate.cs [Design]",
+              "RelativeToolTip": "GUI CW\\ItemUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:11:01.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemReportViewer.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemReportViewer.cs",
+              "RelativeDocumentMoniker": "GUI CW\\ItemReportViewer.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\ItemReportViewer.cs",
+              "RelativeToolTip": "GUI CW\\ItemReportViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:09:13.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Program.cs",
+              "RelativeDocumentMoniker": "GUI CW\\Program.cs",
+              "ToolTip": "C:\\others\\Diploma PC\\GUI\\GUI CW\\GUI CW\\GUI CW\\Program.cs",
+              "RelativeToolTip": "GUI CW\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:36:03.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
