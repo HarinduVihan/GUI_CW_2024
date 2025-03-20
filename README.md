@@ -8,12 +8,13 @@ This system is designed to manage Orders, Items and Customers in an efficient ma
 ## Users
 
 In this system there are two actors who can use this system with
-theirown privelages  
+their own privileges.   
 
 ![IMG-20250204-WA0029](https://github.com/user-attachments/assets/cf304e37-e5c8-4a52-8931-1244a1f061a5)
 
 1. Admin
 2. Cashier
+   
 ## Features
 
 1. Admin can add customers to database with their details.
@@ -32,7 +33,7 @@ theirown privelages
 
 6. Admin can delete any unwanted Items from database.
 
-7. Admin can place an order by chosing customer and items with a quantity for each item.
+7. Admin can place an order by choosing customer and items with a quantity for each item.
 
 ![IMG-20250204-WA0031](https://github.com/user-attachments/assets/38d49705-7df3-4693-a885-6b9f157f43c9)
 
